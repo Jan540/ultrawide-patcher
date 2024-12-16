@@ -5,3 +5,7 @@ usage example:
 ```bash
 ultrawide-patcher game.exe
 ```
+
+## todo
+- [ ] resolution select
+- [ ] don't read the whole file into memory at once 🥶
